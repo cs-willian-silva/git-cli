@@ -46,3 +46,4 @@ case $1 in
 	stop)	disableProxy ; echo "Proxy Desabilitado no Gnome" ; echo ;;
 	*)	clear ; echo ; echo "Erro de sintaxe. Utilize start|stop" ; echo ;;
 esac
+
